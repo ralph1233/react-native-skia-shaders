@@ -1,4 +1,5 @@
 // https://www.shadertoy.com/view/Ms2SD1
+import React from 'react';
 import {
   Canvas,
   Skia,
